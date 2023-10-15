@@ -1,0 +1,11 @@
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\bin\Release\ConexionSerial.exe
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\bin\Release\ConexionSerial.pdb
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\bin\Release\ConexionSerial.xml
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\obj\x86\Release\ConexionSerial.vbprojAssemblyReference.cache
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\obj\x86\Release\ConexionSerial.Form1.resources
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\obj\x86\Release\ConexionSerial.Resources.resources
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\obj\x86\Release\ConexionSerial.vbproj.GenerateResource.cache
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\obj\x86\Release\ConexionSerial.vbproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\obj\x86\Release\ConexionSerial.exe
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\obj\x86\Release\ConexionSerial.xml
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\obj\x86\Release\ConexionSerial.pdb

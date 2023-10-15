@@ -1,0 +1,78 @@
+C:\Users\Sebastian\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\ConexionSerial.exe
+C:\Users\Sebastian\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\ConexionSerial.pdb
+C:\Users\Sebastian\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\ConexionSerial.xml
+C:\Users\Sebastian\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ConexionSerial.Form1.resources
+C:\Users\Sebastian\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ConexionSerial.Resources.resources
+C:\Users\Sebastian\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ConexionSerial.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ConexionSerial.exe
+C:\Users\Sebastian\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ConexionSerial.xml
+C:\Users\Sebastian\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ConexionSerial.pdb
+C:\Users\joseluis\Documents\Universidad\Elementos de Mecatrónica\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.exe
+C:\Users\joseluis\Documents\Universidad\Elementos de Mecatrónica\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.xml
+C:\Users\joseluis\Documents\Universidad\Elementos de Mecatrónica\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.pdb
+C:\Users\joseluis\Documents\Universidad\Elementos de Mecatrónica\ConexionSerial\ConexionSerial\bin\Debug\ConexionSerial.exe
+C:\Users\joseluis\Documents\Universidad\Elementos de Mecatrónica\ConexionSerial\ConexionSerial\bin\Debug\ConexionSerial.pdb
+C:\Users\joseluis\Documents\Universidad\Elementos de Mecatrónica\ConexionSerial\ConexionSerial\bin\Debug\ConexionSerial.xml
+C:\Users\joseluis\Documents\Universidad\Elementos de Mecatrónica\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.Form1.resources
+C:\Users\joseluis\Documents\Universidad\Elementos de Mecatrónica\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.Resources.resources
+C:\Users\joseluis\Documents\Universidad\Elementos de Mecatrónica\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.vbproj.GenerateResource.Cache
+C:\Users\joseluis\Documents\Universidad\Elementos de Mecatrónica\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.vbprojResolveAssemblyReference.cache
+D:\UP\ASIGNATURAS\Elementos de Mecatrónica\2015-ITE\P1\E3\Proyecto 1 Elementos de Mecatrónica\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.exe
+D:\UP\ASIGNATURAS\Elementos de Mecatrónica\2015-ITE\P1\E3\Proyecto 1 Elementos de Mecatrónica\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.xml
+D:\UP\ASIGNATURAS\Elementos de Mecatrónica\2015-ITE\P1\E3\Proyecto 1 Elementos de Mecatrónica\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.pdb
+D:\UP\ASIGNATURAS\Elementos de Mecatrónica\2015-ITE\P1\E3\Proyecto 1 Elementos de Mecatrónica\ConexionSerial\ConexionSerial\bin\Debug\ConexionSerial.exe
+D:\UP\ASIGNATURAS\Elementos de Mecatrónica\2015-ITE\P1\E3\Proyecto 1 Elementos de Mecatrónica\ConexionSerial\ConexionSerial\bin\Debug\ConexionSerial.pdb
+D:\UP\ASIGNATURAS\Elementos de Mecatrónica\2015-ITE\P1\E3\Proyecto 1 Elementos de Mecatrónica\ConexionSerial\ConexionSerial\bin\Debug\ConexionSerial.xml
+D:\UP\ASIGNATURAS\Elementos de Mecatrónica\2015-ITE\P1\E3\Proyecto 1 Elementos de Mecatrónica\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.vbprojResolveAssemblyReference.cache
+D:\UP\ASIGNATURAS\Elementos de Mecatrónica\2015-ITE\P1\E3\Proyecto 1 Elementos de Mecatrónica\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.Form1.resources
+D:\UP\ASIGNATURAS\Elementos de Mecatrónica\2015-ITE\P1\E3\Proyecto 1 Elementos de Mecatrónica\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.Resources.resources
+D:\UP\ASIGNATURAS\Elementos de Mecatrónica\2015-ITE\P1\E3\Proyecto 1 Elementos de Mecatrónica\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.exe
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.xml
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.pdb
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\bin\Debug\ConexionSerial.exe
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\bin\Debug\ConexionSerial.pdb
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\bin\Debug\ConexionSerial.xml
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.Form1.resources
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.Resources.resources
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.vbprojAssemblyReference.cache
+C:\Users\Sebastian\Desktop\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.vbproj.CoreCompileInputs.cache
+G:\Mi unidad\UP\ASIGNATURAS\Elementos de Mecatrónica\2019-ITE\P1\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.exe
+G:\Mi unidad\UP\ASIGNATURAS\Elementos de Mecatrónica\2019-ITE\P1\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.xml
+G:\Mi unidad\UP\ASIGNATURAS\Elementos de Mecatrónica\2019-ITE\P1\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.pdb
+G:\Mi unidad\UP\ASIGNATURAS\Elementos de Mecatrónica\2019-ITE\P1\ConexionSerial\ConexionSerial\bin\Debug\ConexionSerial.exe
+G:\Mi unidad\UP\ASIGNATURAS\Elementos de Mecatrónica\2019-ITE\P1\ConexionSerial\ConexionSerial\bin\Debug\ConexionSerial.pdb
+G:\Mi unidad\UP\ASIGNATURAS\Elementos de Mecatrónica\2019-ITE\P1\ConexionSerial\ConexionSerial\bin\Debug\ConexionSerial.xml
+G:\Mi unidad\UP\ASIGNATURAS\Elementos de Mecatrónica\2019-ITE\P1\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.vbprojResolveAssemblyReference.cache
+G:\Mi unidad\UP\ASIGNATURAS\Elementos de Mecatrónica\2019-ITE\P1\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.Form1.resources
+G:\Mi unidad\UP\ASIGNATURAS\Elementos de Mecatrónica\2019-ITE\P1\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.Resources.resources
+G:\Mi unidad\UP\ASIGNATURAS\Elementos de Mecatrónica\2019-ITE\P1\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.vbproj.GenerateResource.Cache
+D:\ConexionSerial\ConexionSerial\bin\Debug\ConexionSerial.exe
+D:\ConexionSerial\ConexionSerial\bin\Debug\ConexionSerial.pdb
+D:\ConexionSerial\ConexionSerial\bin\Debug\ConexionSerial.xml
+D:\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.vbprojAssemblyReference.cache
+D:\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.Form1.resources
+D:\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.Resources.resources
+D:\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.vbproj.GenerateResource.cache
+D:\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.vbproj.CoreCompileInputs.cache
+D:\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.exe
+D:\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.xml
+D:\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.pdb
+D:\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.vbprojResolveAssemblyReference.cache
+H:\Mi unidad\0167683@up.edu.mx\DOCUMENTOS\Visual Basic\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.vbproj.AssemblyReference.cache
+H:\Mi unidad\0167683@up.edu.mx\DOCUMENTOS\Visual Basic\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.Form1.resources
+H:\Mi unidad\0167683@up.edu.mx\DOCUMENTOS\Visual Basic\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.Resources.resources
+H:\Mi unidad\0167683@up.edu.mx\DOCUMENTOS\Visual Basic\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.vbproj.GenerateResource.cache
+H:\Mi unidad\0167683@up.edu.mx\DOCUMENTOS\Visual Basic\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.vbproj.CoreCompileInputs.cache
+H:\Mi unidad\0167683@up.edu.mx\DOCUMENTOS\Visual Basic\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.exe
+H:\Mi unidad\0167683@up.edu.mx\DOCUMENTOS\Visual Basic\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.xml
+H:\Mi unidad\0167683@up.edu.mx\DOCUMENTOS\Visual Basic\ConexionSerial\ConexionSerial\obj\x86\Debug\ConexionSerial.pdb
+H:\Mi unidad\0167683@up.edu.mx\DOCUMENTOS\Visual Basic\ConexionSerial\obj\x86\Debug\ConexionSerial.vbproj.AssemblyReference.cache
+H:\Mi unidad\0167683@up.edu.mx\DOCUMENTOS\Visual Basic\ConexionSerial\obj\x86\Debug\ConexionSerial.Form1.resources
+H:\Mi unidad\0167683@up.edu.mx\DOCUMENTOS\Visual Basic\ConexionSerial\obj\x86\Debug\ConexionSerial.Resources.resources
+H:\Mi unidad\0167683@up.edu.mx\DOCUMENTOS\Visual Basic\ConexionSerial\obj\x86\Debug\ConexionSerial.vbproj.GenerateResource.cache
+H:\Mi unidad\0167683@up.edu.mx\DOCUMENTOS\Visual Basic\ConexionSerial\obj\x86\Debug\ConexionSerial.vbproj.CoreCompileInputs.cache
+H:\Mi unidad\0167683@up.edu.mx\DOCUMENTOS\Visual Basic\ConexionSerial\obj\x86\Debug\ConexionSerial.exe
+H:\Mi unidad\0167683@up.edu.mx\DOCUMENTOS\Visual Basic\ConexionSerial\obj\x86\Debug\ConexionSerial.xml
+H:\Mi unidad\0167683@up.edu.mx\DOCUMENTOS\Visual Basic\ConexionSerial\obj\x86\Debug\ConexionSerial.pdb
